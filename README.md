@@ -1,5 +1,5 @@
 <h1>Knowledge Base</h1>
-<hr>
+
 <h2>Table of contents</h2>
 
 <ul>
