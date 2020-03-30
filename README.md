@@ -4,9 +4,10 @@
 
 <ul>
   <li><a href="#data-structures">Data Structures</a></li>
-  <li><a href="#data-structures">Ruby</a></li>
-  <li><a href="#data-structures">Rails</a></li>
-  <li><a href="#data-structures">Courses and Videos</a></li>
+  <li><a href="#ruby">Ruby</a></li>
+  <li><a href="#rails">Rails</a></li>
+  <li><a href="#courses">Courses and Videos</a></li>
+  <li><a href="#docker">Docker</a></li>
 </ul>
 
 <h3 id="data-structures">Data Structures</h3>
@@ -33,6 +34,11 @@
   <li><a href="https://www.youtube.com/playlist?list=PL3fvEdXaEVai41NdrasEgNK9lSy2w2xwg">Пушкин(rails, ruby)</a></li>
 </ul>
 
+
+<h3 id="docker">Docker</h3>
+<ul>
+  <li><a href="https://github.com/gonzo-web/knowledge_base/tree/master/docker">References</li>
+</ul>
 
 
 
