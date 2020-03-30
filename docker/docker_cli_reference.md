@@ -8,7 +8,7 @@ For example
 
 docker build .
 
-docker build . --no-cache — drops cached middle-images and builds image from scratch
+docker build --no-cache . — drops cached middle-images and builds image from scratch
 
 ## docker tag
 
