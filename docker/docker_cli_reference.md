@@ -2,11 +2,13 @@
 
 ## docker build
 
-docker build <path> — builds docker image based on Dockerfile that must be provided in <path>, it will return id of new build image
+docker build <options> <path> — builds docker image based on Dockerfile that must be provided in <path>, it will return id of new build image
 
 For example
 
 docker build .
+
+docker build . --no-cache — drops cached middle-images and builds image from scratch
 
 ## docker tag
 
