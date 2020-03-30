@@ -8,6 +8,7 @@
   <li><a href="#rails">Rails</a></li>
   <li><a href="#courses">Courses and Videos</a></li>
   <li><a href="#docker">Docker</a></li>
+  <li><a href="#python">Python</a></li>
 </ul>
 
 <h3 id="data-structures">Data Structures</h3>
@@ -38,6 +39,19 @@
 <h3 id="docker">Docker</h3>
 <ul>
   <li><a href="https://github.com/gonzo-web/knowledge_base/tree/master/docker">References</li>
+</ul>
+
+<h3 id="python">Python</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=wsWVku26xcA">Молчанов ответы 1</li>
+  <li><a href="https://www.youtube.com/watch?v=KT1Vf5EueGg">Молчанов ответы 2</li>
+  <li><a href="https://www.youtube.com/playlist?list=PLlWXhlUMyooaeSj8L8tVVbtUo0WCO4ORR">Молчанов основы python(youtube)</li>
+  <li><a href="https://stepik.org/course/512/">Stepik. Хорошо для начала и закрепления основ</li>
+  <li><a href="https://www.youtube.com/watch?v=3hgkiDAaSQs">Молчанов парсинг</li>
+  <li><a href="https://www.youtube.com/playlist?list=PLlWXhlUMyooZr5R2u2Zwxt6Pw6iwBo5y5">Молчанов flask</li>
+  <li><a href="https://www.ozon.ru/context/detail/id/156082566/">Марк Лутц — Изучаем Python том 1 — не для самого начала, но мастхев</li>
+  <li><a href="https://www.ozon.ru/context/detail/id/165524776/">ММарк Лутц — Изучаем Python том 2 — не для самого начала, но мастхев</li>
+  
 </ul>
 
 
