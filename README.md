@@ -38,6 +38,8 @@
 
 <h3 id="docker">Docker</h3>
 <ul>
+  <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04">Docker Installation and basics</li>
+  <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04">Docker Compose Installation and basics</li>
   <li><a href="https://github.com/gonzo-web/knowledge_base/tree/master/docker">References</li>
 </ul>
 
@@ -53,8 +55,6 @@
   <li><a href="https://www.ozon.ru/context/detail/id/165524776/">Марк Лутц — Изучаем Python том 2 — не для самого начала, но мастхев</li>
   <li><a href="https://www.ozon.ru/context/detail/id/135559040/">Мигель Гринберг — Flask</li>
   <li><a href="https://www.ozon.ru/context/detail/id/139296295/">Адитья Бхагава — Грокаем Алгоритмы</li>
-  
-  
 </ul>
 
 
