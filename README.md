@@ -50,7 +50,7 @@
   <li><a href="https://www.youtube.com/watch?v=3hgkiDAaSQs">Молчанов парсинг</li>
   <li><a href="https://www.youtube.com/playlist?list=PLlWXhlUMyooZr5R2u2Zwxt6Pw6iwBo5y5">Молчанов flask</li>
   <li><a href="https://www.ozon.ru/context/detail/id/156082566/">Марк Лутц — Изучаем Python том 1 — не для самого начала, но мастхев</li>
-  <li><a href="https://www.ozon.ru/context/detail/id/165524776/">ММарк Лутц — Изучаем Python том 2 — не для самого начала, но мастхев</li>
+  <li><a href="https://www.ozon.ru/context/detail/id/165524776/">Марк Лутц — Изучаем Python том 2 — не для самого начала, но мастхев</li>
   <li><a href="https://www.ozon.ru/context/detail/id/135559040/">Мигель Гринберг — Flask</li>
   <li><a href="https://www.ozon.ru/context/detail/id/139296295/">Адитья Бхагава — Грокаем Алгоритмы</li>
   
