@@ -26,7 +26,7 @@ For example
 COPY myfile.txt /container_folder
 
 # ADD
-ADD source destination — work like COPY command but can extract tar archives and use remote urls as source
+ADD source destination — work like COPY command but can extract tar archives and use remote urls as source, literally injects local files and folders into the built image
 
 # WORKDIR
 WORKDIR directory — specifies current working directory
