@@ -10,6 +10,8 @@ docker build .
 
 docker build --no-cache . — drops cached middle-images and builds image from scratch
 
+docker build -t my_service . — builds image and gives it a name of "my_service"
+
 ## docker tag
 
 docker tag <image_id> <custom_name> — binds custom name to easily identify docker image
