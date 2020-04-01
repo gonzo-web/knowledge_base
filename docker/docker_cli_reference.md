@@ -68,3 +68,18 @@ docker volume ls — display list of docker volumes
 
 docker volume rm (<volume_name> || <volume_id>) — remove docker volume
 
+## volumes
+
+docker run -d -v </absolute/local/path>:</container/path> --name container_1 <image> — creates container with volume(permanent information even container is up/down untill you remove volume or container with -v option)
+
+docker run -d --volume-from container_1 <image> - runs another container and mounts volume of container_1, so they both share one volume
+
+docker rm -v <conatainer_name> — removes forever container with volume
+
+docker volume prune — removes all unused volumes
+
+
+## Interactive mode
+
+docker run -it ubuntu:bionic — for example runs container interactively, and once you press ctrl-C you exit container interactive shell and container imidiately goes down, to awoid this situation press ctrl-P & ctrl-Q consistently, you will exit interactive shell but container will keep running background
+
