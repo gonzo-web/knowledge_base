@@ -60,7 +60,7 @@
 
 <h3 id="sql">SQL</h3>
 <ul>
-  <li><a href="">Basic mysql reference</li>
+  <li><a href="https://github.com/gonzo-web/knowledge_base/blob/master/sql/mysql.md">Basic mysql reference</li>
 </ul>
 
 
