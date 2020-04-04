@@ -9,6 +9,7 @@
   <li><a href="#courses">Courses and Videos</a></li>
   <li><a href="#docker">Docker</a></li>
   <li><a href="#python">Python</a></li>
+  <li><a href="#sql">SQL</a></li>
 </ul>
 
 <h3 id="data-structures">Data Structures</h3>
@@ -55,6 +56,11 @@
   <li><a href="https://www.ozon.ru/context/detail/id/165524776/">Марк Лутц — Изучаем Python том 2 — не для самого начала, но мастхев</li>
   <li><a href="https://www.ozon.ru/context/detail/id/135559040/">Мигель Гринберг — Flask</li>
   <li><a href="https://www.ozon.ru/context/detail/id/139296295/">Адитья Бхагава — Грокаем Алгоритмы</li>
+</ul>
+
+<h3 id="sql">SQL</h3>
+<ul>
+  <li><a href="">Basic mysql reference</li>
 </ul>
 
 
