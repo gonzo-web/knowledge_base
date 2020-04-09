@@ -62,14 +62,27 @@ registered_at **DATETIME**
 
 **SELECT** * **FROM** my_contacts;
 
+
 ## Modify table add column
+
 **ALTER TABLE** my_contacts **ADD COLUMN** phone **VARCHAR**(20) **AFTER** email;
 
+
 ## Modify table remove column
+
 **ALTER TABLE** my_contacts **DROP COLUMN** email;
 
+
 ## Modify table change column
+
 **ALTER TABLE** my_contacts **CHANGE COLUMN** phone mobile_phone **VARCHAR**(10);
 
+
 ## Modify table modify column
+
 **ALTER TABLE** my_contacts **MODIFY COLUMN** mobile_phone **VARCHAR**(25);
+
+
+## Modify table rename table
+
+**ALTER TABLE** my_contacts **RENAME** contacts;
